@@ -20,6 +20,7 @@ This project involved conducting an internal security audit for **Botium Toys**,
 * **Access Control Gaps:** No "Least Privilege" policy in place, increasing insider threat risks.
 * **Detection Deficit:** Absence of an Intrusion Detection System (IDS) leaves the company blind to active attacks.
 
-## Final Documents
-* [Controls & Compliance Checklist](./audit_checklist.md)
-* [Stakeholder Memorandum](./stakeholder_memo.md)
+## Repository Structure
+*   [Controls & Compliance Checklist](./audit_checklist.md) - Raw audit data.
+*   [Stakeholder Memorandum](./stakeholder_memo.md) - Executive summary.
+*   [Security Audit Report](./Security_Audit_Report.md) - Full technical analysis and NIST CSF mapping.
