@@ -1,4 +1,5 @@
 # Internal Security Audit: Botium Toys
+![NIST CSF](https://img.shields.io/badge/Framework-NIST%20CSF-white?style=for-the-badge&logo=nist&logoColor=red) ![Compliance](https://img.shields.io/badge/Compliance-GDPR%20|%20PCI%20DSS-blue?style=for-the-badge) ![Audit](https://img.shields.io/badge/Role-Security%20Auditor-green?style=for-the-badge)
 
 ## Project Overview
 This project involved conducting an internal security audit for **Botium Toys**, a fictional US-based retail company. The goal was to assess the current security posture, ensure compliance with international regulations (**GDPR** and **PCI DSS**), and provide actionable recommendations based on the **NIST Cybersecurity Framework (CSF)**.
